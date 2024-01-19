@@ -11,7 +11,7 @@ export const RESUME_DATA = {
   summary:
     "As a Software Engineer, I've successfully contributed to the development of multiple products from 0 to 1. I contribute to teams effectively, ensuring an environment where people can do their best work. Currently, I work primarily with TypeScript, React, Angular and Firebase. I have more than 2 years of experience working remotely with companies from different parts of the world.",
   avatarUrl:
-    "https://res.cloudinary.com/daobmfotr/image/upload/v1705465102/hf7pwyxm7dv6csl5e2xv.jpg",
+    "https://res.cloudinary.com/daobmfotr/image/upload/v1705626820/ubvrat7jwssfhibumpbw.webp",
   personalWebsiteUrl: "https://fabioalcocer.vercel.app/",
   contact: {
     email: "fabioalcocerdev@gmail.com",
